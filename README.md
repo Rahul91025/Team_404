@@ -1,5 +1,6 @@
 Full Stack AI Banking Platform with Next.js, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 🔥🔥
 Overview
+Website Link: https://ai-finance-zwga.onrender.com/
 Banking operations often face challenges such as long queues, unpredictable wait times, and manual form submissions, leading to inefficiencies and customer dissatisfaction. Our AI-driven solutions aim to streamline these processes and enhance the overall banking experience. These include:
 
 Real-Time Branch Traffic Monitoring System
@@ -36,7 +37,7 @@ Supabase Account for database services
 bash
 Copy
 Edit
-git clone https://github.com/your-repo/ai-banking-platform.git
+git clone https://github.com/Rahul91025/Team_404/tree/master
 cd ai-banking-platform
 2. Install dependencies
 bash
